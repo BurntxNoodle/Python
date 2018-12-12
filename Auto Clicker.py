@@ -3,8 +3,6 @@ This program will make an auto clicker that is customized
 at runtime by user. Think of it as a template.
 
 NOTE: Cannot click beyond 1920x1080 monitor
-
-Josh R
 '''
 
 import pyautogui
