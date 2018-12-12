@@ -1,4 +1,5 @@
-This python program is basically an auto clicker that is customizable at run time by the user!
+This python program is basically an auto clicker that is customizable at run time by the user! The program will
+give you detailed instructions when you run it.
 
 The user will be able to customize:
 1. Number of locations the user wants to click (in order)
