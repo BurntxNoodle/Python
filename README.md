@@ -5,5 +5,3 @@ algorithms originally taught in my C or Java classes but coded in python, and mo
 
 For the programs to properly work, make sure you first have python installed, along with any other imports (such as
 pyautogui) that are used in the specific program.
-
-\- BurntxNoodle (CS, UCF 2021)
