@@ -5,3 +5,10 @@ Here lies all the extra code I worked on my free time. Usually to learn a progra
 Read the ```README.md```s as it may contain things you need for the code to run without problems (such as version, modules, etc.)
 
 Some of them are incomplete, and I'll get back on it soon.
+
+### Below is a list of code/projects that are uploaded in this respository for ease of use:
+
+#### Python 
+- [Auto Clicker](https://github.com/BurntxNoodle/Code/tree/master/Auto%20Clicker) ```done```
+- [Bubble Sort](https://github.com/BurntxNoodle/Code/tree/master/Bubble%20Sort) ```done```
+- [CSV Fun](https://github.com/BurntxNoodle/Code/tree/master/CSV%20Fun) ```incomplete``` (create/write/edit/add CS files)
