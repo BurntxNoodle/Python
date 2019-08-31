@@ -8,6 +8,9 @@ In class, we learned about the affine cipher. To better understand the encoding 
 
 On command line: ```python3 AffineBruteForce.py```
 
+Example of it run:
+![image](https://user-images.githubusercontent.com/41026969/64060128-9feaaa00-cb96-11e9-9c3b-c568738868d6.png)
+
 The program will prompt you to input ciphertext that you want to decode.
 
 ### note: it assumes no spaces and uppercase lettering
