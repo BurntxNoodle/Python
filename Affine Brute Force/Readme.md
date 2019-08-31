@@ -1,6 +1,6 @@
 # Affine Ciphertext Decoder - Shows all 312 possibilities
 
-In class, we learned about the affine cipher. To better understand the encoding process, and to help with homework, I coded it up with python.
+In class, we learned about the affine cipher. To help with a homework problem with ciphertext encoded by the Affine encryption, I coded this up to go over all possibilities and brute force the text so I wouldn't have to do this by hand.
 
 #### How to run
 
