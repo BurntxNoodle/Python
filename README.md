@@ -1,10 +1,13 @@
 # Code/Projects
 
-Here lies all the extra code I worked on my free time. Small projects, simple alogirthms, to exploits I've written for CTFs, etc. 
+Here lies all the extra random code I worked on my free time. Small projects, simple alogirthms, to exploits I've written for CTFs, etc. 
 
 Some of them are incomplete, and I'll get back on it hopefully soon
 
 # Project list below
+
+#### Custom Tools/Scripts for Red Teaming/Pentesting
+- [multiGo](https://github.com/BurntxNoodle/Code/tree/master/multiGo): web URI scanner for multiple directories
 
 #### Shell Code/Exploits used in CTFs and Wargames
 - [[Buffer Overflow] Shellcode for CSAW 2016 Quals, WarmUp](https://github.com/BurntxNoodle/Code/blob/master/2016%20CSAW%20WarmUp.py)
